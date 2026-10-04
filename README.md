@@ -129,3 +129,28 @@ TIMEGUARD includes an integrated ISAR component to support administrative monito
                            |
                            v
                    PRINT / SIGN / SUBMIT
+
+
+---
+
+## System Screenshots
+
+The following screenshots demonstrate selected interfaces of the TIMEGUARD system using sanitized demo data.
+
+### 1. Employee Login
+
+![TIMEGUARD Employee Login](screenshots/00-login-demo.png)
+
+### 2. Employee Attendance Dashboard
+
+![TIMEGUARD Employee Dashboard](screenshots/01-employee-dashboard-demo.png)
+
+### 3. Administrative Dashboard
+
+![TIMEGUARD Admin Dashboard](screenshots/02-admin-dashboard-demo.png)
+
+### 4. Administrative Reporting Modules
+
+![TIMEGUARD Administrative Reporting Modules](screenshots/03-admin-reporting-modules-demo.png)
+
+> **Note:** Screenshots use demonstration data and do not represent actual employee attendance records or confidential institutional information.
